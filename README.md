@@ -87,7 +87,3 @@ It aligns the GPT-2 model with **human preference data**, enhancing response qua
 
 * GitHub: [github.com/chabdullah7](https://github.com/chabdullah7)
 * LinkedIn: [linkedin.com/in/ch-abdullah-b537951a](https://www.linkedin.com/in/ch-abdullah-b537951a)
-
----
-
-Would you like me to make a **shorter version** (for GitHub repo description and summary section) too — something that goes right under your repo title (2–3 lines)?
